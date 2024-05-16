@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é Nathan ROberto
+Meu nome é Nathan Roberto
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
